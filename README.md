@@ -37,6 +37,3 @@ This repository contains a collection of analysis and machine learning projects 
 
 ## Contributing
 Contributions to this repository are welcome! If you have any analysis or machine learning projects implemented in Python that you'd like to share, feel free to fork this repository and submit a pull request with your additions.
-
-## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
